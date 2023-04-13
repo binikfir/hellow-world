@@ -1,2 +1,2 @@
 # hellow-world
-My first repository
+My first repository, which should contains python scripts
